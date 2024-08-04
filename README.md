@@ -1,7 +1,7 @@
 # CHCNet
 This repository is the official implementation of CHCNet.
 # Paper
-"Towards a unified model for counting cereal crop head based on few-shot learning" has submitted to Plant Phenomics.
+"Towards a Unified Model for Counting Cereal Crop Heads Based on Few-Shot Learning" has submitted to Plant Phenomics.
 # Demo
 Our model demo is now live on the [http://cerealcropnet.com](http://cerealcropnet.com)
 # Introduction
